@@ -1,7 +1,6 @@
 # Shopper
 
-Grace Shopper
-Apr 2018 | See Live Demo At: https://TeamAwesomee.HerokuApp.com/
+Grace Shopper | Team Project | Apr 2018 | See Live Demo At: https://TeamAwesomee.HerokuApp.com/
 
 A point of sale website developed by a team of 4 programmers to manage & receive orders.
 
